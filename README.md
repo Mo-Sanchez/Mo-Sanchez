@@ -1,7 +1,3 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&theme=cobalt" />
-</div>
-
 ## 👋 Hi, I’m Moises
 
 I build practical software, internal tools, and interactive systems — from operational dashboards to Unity gameplay projects.
@@ -58,7 +54,3 @@ I build practical software, internal tools, and interactive systems — from ope
 </div>
 
 ---
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&rotate=175&theme=cobalt" />
-</div>
